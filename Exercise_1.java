@@ -9,6 +9,7 @@ class Stack {
     { 
         //Write your code here 
         int vindya;
+        int newvin;
     } 
 
     Stack() 
