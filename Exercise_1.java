@@ -8,6 +8,7 @@ class Stack {
     boolean isEmpty() 
     { 
         //Write your code here 
+        int vindya;
     } 
 
     Stack() 
